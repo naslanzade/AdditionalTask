@@ -1,0 +1,14 @@
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\bin\Debug\netcoreapp3.1\Lab!.exe
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\bin\Debug\netcoreapp3.1\Lab!.deps.json
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\bin\Debug\netcoreapp3.1\Lab!.runtimeconfig.json
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\bin\Debug\netcoreapp3.1\Lab!.runtimeconfig.dev.json
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\bin\Debug\netcoreapp3.1\Lab!.dll
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\bin\Debug\netcoreapp3.1\Lab!.pdb
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\obj\Debug\netcoreapp3.1\Lab!.csproj.AssemblyReference.cache
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\obj\Debug\netcoreapp3.1\Lab!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\obj\Debug\netcoreapp3.1\Lab!.AssemblyInfoInputs.cache
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\obj\Debug\netcoreapp3.1\Lab!.AssemblyInfo.cs
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\obj\Debug\netcoreapp3.1\Lab!.csproj.CoreCompileInputs.cache
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\obj\Debug\netcoreapp3.1\Lab!.dll
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\obj\Debug\netcoreapp3.1\Lab!.pdb
+C:\Users\novra\OneDrive\Desktop\Lab!\Lab!\obj\Debug\netcoreapp3.1\Lab!.genruntimeconfig.cache
